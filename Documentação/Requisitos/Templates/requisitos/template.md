@@ -7,7 +7,9 @@
 ---
 
 **Prioridade** [informa qual a prioridade do requisito]
-**Requisitos relacionaos** [Quais outros requisitos dependem deste requisito e quais requisitos este requisito necessita]
+[prioridade selecionada]
+**Requisitos relacionados** [Quais outros requisitos dependem deste requisito]
+[requisitos relacionaos aqui]
 
 ## **Dados e Validações**
 1. **Dados Necessários**
