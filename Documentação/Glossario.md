@@ -1,0 +1,22 @@
+## Glossário 
+
+- **Carga horária:** Total de horas trabalhadas por um empregado em um período específico.
+- **Empregado:** Pessoa que trabalha em uma empresa, especialmente no contexto de trabalho remoto ou híbrido.
+- **Gestor:**  Pessoa responsável por gerenciar projetos e supervisionar a equipe de trabalho.
+- **Horas extras:** Tempo de trabalho adicional além da carga horária regular previamente definida.
+- **Notificação:** Mensagem enviada pelo sistema para alertar o usuário sobre uma nova tarefa ou evento.
+- **Relatório:** Documento gerado pelo sistema que contém informações sobre atividades, tarefas e horas trabalhadas.
+- **Status da tarefa:**  Condição atual de uma tarefa (e.g., "Concluída", "Em andamento").
+- **Integração:** Capacidade do sistema de se conectar e funcionar em conjunto com outras ferramentas ou sistemas.
+- **Calendário:** Ferramenta que permite o agendamento e visualização de eventos, reuniões e prazos.
+- **Atividade diária:** Conjunto de tarefas e ações realizadas por um empregado em um dia de trabalho.
+- **Interface amigável:**  Design do sistema que facilita a interação do usuário, tornando-o intuitivo e fácil de usar.
+- **Dispositivos móveis:** Aparelhos portáteis como smartphones e tablets, que podem acessar o sistema.
+- **Criptografia de ponta a ponta:** Técnica de segurança que protege os dados durante a transmissão, garantindo que apenas os destinatários pretendidos possam acessá-los.
+- **Tempo de inatividade:** Período em que o sistema não está disponível ou funcionando corretamente.
+- **Desempenho:** Medida da eficácia e eficiência com que o sistema responde e processa as solicitações dos usuários.
+- **API RESTful:** Interface de programação de aplicações baseada em padrões REST (Representational State Transfer) para permitir a comunicação entre diferentes sistemas.
+- **Tempo de resposta:** Intervalo de tempo que o sistema leva para responder a uma solicitação do usuário.
+- **Operação crítica:** Ação essencial que o sistema realiza, cuja falha pode impactar o funcionamento ou a segurança geral do sistema.
+- **Atualizações automáticas:** Processo de manter o software atualizado sem a necessidade de intervenção manual do usuário.
+- **LGPD(Lei Geral de Proteção de Dados):** Regulamento brasileiro que estabelece diretrizes para a proteção e privacidade de dados pessoais.
