@@ -12,4 +12,4 @@ O WhipSolution surge como uma ferramenta inovadora de gerenciamento de horas, ta
 
 ### **Documento de requisitos**
 
-[documento de requisitos]("https://docs.google.com/document/d/1TKfXlE-eiQxBH_9cZfViZGWaUZjPGp9gPNrqnia7Uw0/edit?usp=sharing")
+[documento de requisitos](https://docs.google.com/document/d/1TKfXlE-eiQxBH_9cZfViZGWaUZjPGp9gPNrqnia7Uw0/edit?usp=sharing)
