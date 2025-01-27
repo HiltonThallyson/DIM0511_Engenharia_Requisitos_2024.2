@@ -1,4 +1,4 @@
-# WhipSolutuion
+# WhipSolution
 
 ## Uma breve Descrição do contexto / Problema
 
