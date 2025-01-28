@@ -14,8 +14,9 @@ O WhipSolution surge como uma ferramenta inovadora de gerenciamento de horas, ta
 
 [documento de requisitos](https://docs.google.com/document/d/1TKfXlE-eiQxBH_9cZfViZGWaUZjPGp9gPNrqnia7Uw0/edit?usp=sharing)
 
-### **Artefatos do projeto***
+### **Artefatos do projeto**
 [Link para o google drive](https://drive.google.com/drive/folders/1CAXgJJewYML2oUUz8dT4-kRoFRkV55ib?usp=sharing)
+[Apresentação](https://docs.google.com/presentation/d/19JDyouFe2Ai5NZ_9UC_bsdw5Fbrk1Ajf9yTq56Sfvrg/edit?usp=drive_link)
 
 ### **Referências**
 - A norma ISO/IEC/IEEE 29148 
